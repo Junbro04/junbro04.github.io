@@ -16,10 +16,10 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Site Title"
+title                    : "준호 블로그"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
-name                     : "Your Name"
+name                     : "Junho"
 description              : "An amazing website."
 url                      : "https://junbro04.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
@@ -114,7 +114,7 @@ analytics:
 author:
   name             : "Your Name"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an **amazing** person."
+  bio              : "나는 열심히 **노력하는** 사람"
   location         : "Somewhere"
   email            :
   links:
