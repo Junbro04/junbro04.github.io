@@ -111,7 +111,7 @@ author:
   location         : "Gyeonggi-Do, Republic of Korea"
   email            :
   links:
-    - label: "Email"
+    - label: "Gmail"
       icon: "fas fa-fw fa-envelope-square"
       url: "mailto:j.namgung2031@gmail.com"
     - label: "Website"
